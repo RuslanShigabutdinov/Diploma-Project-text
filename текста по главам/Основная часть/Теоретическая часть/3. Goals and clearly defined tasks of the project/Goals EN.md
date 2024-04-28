@@ -1,0 +1,8 @@
+The main goal of this project is to *develop* and *implement* a comprehensive *medical information storage* system that will use NFC bracelets and a website to provide fast, secure and convenient access to vital patient information.
+Clearly defined tasks:
+1. Analysis of existing systems: Conduct a review of existing medical information storage systems. Study their functionality, advantages and disadvantages. Analyze the compliance of existing solutions with project requirements.
+2. Development of system requirements: Determine the functional requirements for the system. Develop technical requirements for the system (hardware and software, security, performance). Establish non-functional requirements for the system (ease of use, scalability, cost).
+3. System design: Develop the system architecture (main components and their interactions). Create prototypes of system interfaces (website, mobile application, if provided). Develop a database for storing medical information.
+4. Software development: Develop software for the system website. Develop software for interaction with NFC bracelets. Test the software for errors. Optimize system performance.
+5. Development and selection of NFC bracelets: Determine the technical characteristics of NFC bracelets (memory capacity, data transfer speed, security). Conduct market research for NFC bracelets and select a suitable supplier. Test selected NFC bracelets for compliance with requirements.
+6. Dissemination of information about the system: Prepare presentation materials about the system. Conduct presentations of the system to stakeholders.
